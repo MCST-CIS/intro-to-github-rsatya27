@@ -1,0 +1,7 @@
+question1 = input("What is my favorite sport? ")
+print("\n A. Soccer \n B. Baketball \n C. Tennis \n D. Badminton")
+question1 = input(" ")
+print("\n A. Soccer \n B. Baketball \n C. Tennis \n D. Badminton")
+question1 = input("What is my favorite sport? ")
+question1 = input("What is my favorite sport? ")
+question1 = input("What is my favorite sport? ") 
